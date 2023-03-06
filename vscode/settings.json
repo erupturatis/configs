@@ -1,0 +1,49 @@
+{
+  "files.autoSave": "onWindowChange",
+  "code-runner.saveAllFilesBeforeRun": true,
+  "code-runner.saveFileBeforeRun": true,
+
+  "code-runner.runInTerminal": true,
+  "code-runner.ignoreSelection": true,
+  "editor.codeActionsOnSave": {},
+  "workbench.editorAssociations": {
+    "*.swf": "default"
+  },
+  "liveServer.settings.donotVerifyTags": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.tabSize": 2,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "notebook.editorOptionsCustomizations": {},
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "material-ui-snippets.showNotesOnStartup": false,
+  "workbench.iconTheme": "vscode-icons",
+  "vim.useCtrlKeys": true,
+  "vim.commandLineModeKeyBindings": [],
+  "vim.insertModeKeyBindings": [],
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "vscode-neovim.neovimExecutablePaths.win32": "C:\\tools\\neovim\\nvim-win64\\bin\\nvim.exe",
+  "liveServer.settings.port": 0,
+  "extensions.experimental.affinity": {
+    "asvetliakov.vscode-neovim": 1
+  },
+  "editor.inlineSuggest.enabled": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.lineNumbers": "relative",
+  "[python]": {
+    "editor.formatOnType": true
+  }
+}
